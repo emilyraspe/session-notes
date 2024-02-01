@@ -58,3 +58,4 @@ Git = Version control System --> keeps track of changes
 - git status = check the status
 - Name of the files that should be ignored must be written in the .gitignore file
 - If you want to stop tracking the Project you have to delete the .git file = rm rf .git
+- Remove = git branch -d nameofbranch
